@@ -1,0 +1,21 @@
+body{   
+    width: 99%;
+    height: 100%;
+    background-image: url("../img/glow1.jpg");
+    
+}
+
+a{
+  font-size: 25px;
+  color:white;
+  font-family:'Quicksand', sans-serif;
+  border-radius: 10px;
+  cursor:pointer;
+  
+
+}
+
+#Home{
+    margin-top:450px;
+    margin-left: 600px;
+}
